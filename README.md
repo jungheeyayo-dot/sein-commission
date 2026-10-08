@@ -1,1 +1,1 @@
-https://github.com/jungheeyayo-dot/sein-commission.git
+https://jungheeyayo-dot.github.io/sein-commission/
